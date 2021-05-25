@@ -1,0 +1,14 @@
+The python file Q1FCNN.py is the code containing the Fully-Connected 
+Neural Network for exercise 1.b.
+Please run the file by punching: "python Q1FCNN.py" in your terminal. I 
+only imported numoy and sys for this file. The MNIST dataset is already 
+included in the folder housed in the MNIST folder.
+The best possible classification performance that the FCNN achieved was 
+0.9852.
+
+The colab notebook Q2bCNN.ipynb for exercise 2.b already shows the 
+model's performance. I used  torch, torchvision,
+torchvision.datasets, matplotlib.pyplot and numpy. I used colab for this 
+exercise since the torch toolkit allowed me to
+take advantage of GPU speedup. The best possibleclassification 
+performance that my model achieved was 0.99188889.
